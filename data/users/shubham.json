@@ -1,0 +1,25 @@
+{
+  "profile_id": "shubham",
+  "profile_name": "Shubham",
+  "created_at": "2026-01-11",
+  "applications": [
+    {
+      "company": "TechNova",
+      "role": "Software Engineer Intern",
+      "location": "Pune",
+      "applied_on": "2026-01-12",
+      "email_tone": "formal",
+      "status": "Applied",
+      "follow_up_due": "2026-01-19"
+    },
+    {
+      "company": "XYZ AI Labs",
+      "role": "AI Intern",
+      "location": "Ahmedabad",
+      "applied_on": "2026-01-12",
+      "email_tone": "concise",
+      "status": "Replied",
+      "follow_up_due": "2026-01-19"
+    }
+  ]
+}
